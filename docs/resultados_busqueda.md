@@ -11,7 +11,7 @@ Los algoritmos se evaluaron comparando métricas como tiempo total, transbordos 
 
 ## 3. Contexto Dinámico (Estaciones Cerradas y Criterios)
 * **Cierre de estaciones (ej. San Pascual):** El sistema recalcula automáticamente la ruta óptima evitando la estación cerrada, obligando a tomar rutas alternativas o desvíos.
-* **Criterio de transbordos:** Al optimizar por transbordos (como se probó de Aguablanca a Univalle), el sistema prioriza minimizar los cambios de ruta sobre el tiempo bruto de viaje.
+* **Criterio de transbordos:** Al optimizar por transbordos (como se probó SSde Aguablanca a Univalle), el sistema prioriza minimizar los cambios de ruta sobre el tiempo bruto de viaje.
 
 ## 4. Pruebas Automáticas
 * Se ejecutaron exitosamente todas las pruebas unitarias del módulo de pruebas (`python -m unittest discover -s tests -v`), obteniendo un total de **27 pruebas pasadas con éxito (OK)**.
