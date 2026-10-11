@@ -1,0 +1,9 @@
+estacion_origen,estacion_destino,distancia_km,transbordos,hora_pico,tiempo_viaje_min
+Andres Sanin,Universidades,12.5,1,1,45
+Andres Sanin,Centro,8.2,0,0,25
+Terminal Calipso,Universidades,6.0,0,0,15
+Terminal Menga,Centro,10.1,1,1,35
+Caicedo,San Pascual,3.2,0,0,10
+Univalle,Pioneros,4.5,0,1,18
+Chiminangos,Centro,9.0,1,1,30
+Atanasio Girardot,Terminal Paso del Comercio,5.5,0,0,16
