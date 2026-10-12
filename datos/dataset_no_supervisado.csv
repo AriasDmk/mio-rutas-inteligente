@@ -1,0 +1,9 @@
+estacion,promedio_pasajeros_dia,tiempo_espera_promedio_min,conexiones_disponibles,indice_congestion
+andres_sanin,15400,6.5,8,4.2
+universidades,18200,5.0,10,4.8
+7_de_agosto,9500,8.2,4,2.5
+san_pascual,11200,7.0,7,3.1
+atanasio_girardot,6800,9.1,3,1.9
+canaverales,13400,6.0,6,3.6
+popular,8100,8.5,4,2.2
+aguablanca,16900,5.8,9,4.5
